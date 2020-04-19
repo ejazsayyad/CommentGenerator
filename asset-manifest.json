@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/CommentGenerator/static/css/main.c55bd31b.chunk.css",
+    "main.js": "/CommentGenerator/static/js/main.7cfcec0a.chunk.js",
+    "main.js.map": "/CommentGenerator/static/js/main.7cfcec0a.chunk.js.map",
+    "runtime-main.js": "/CommentGenerator/static/js/runtime-main.d8a4bc1f.js",
+    "runtime-main.js.map": "/CommentGenerator/static/js/runtime-main.d8a4bc1f.js.map",
+    "static/js/2.1d61e765.chunk.js": "/CommentGenerator/static/js/2.1d61e765.chunk.js",
+    "static/js/2.1d61e765.chunk.js.map": "/CommentGenerator/static/js/2.1d61e765.chunk.js.map",
+    "index.html": "/CommentGenerator/index.html",
+    "precache-manifest.0d395b0d7693a96b02727159356b11ff.js": "/CommentGenerator/precache-manifest.0d395b0d7693a96b02727159356b11ff.js",
+    "service-worker.js": "/CommentGenerator/service-worker.js",
+    "static/css/main.c55bd31b.chunk.css.map": "/CommentGenerator/static/css/main.c55bd31b.chunk.css.map",
+    "static/js/2.1d61e765.chunk.js.LICENSE.txt": "/CommentGenerator/static/js/2.1d61e765.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d8a4bc1f.js",
+    "static/js/2.1d61e765.chunk.js",
+    "static/css/main.c55bd31b.chunk.css",
+    "static/js/main.7cfcec0a.chunk.js"
+  ]
+}

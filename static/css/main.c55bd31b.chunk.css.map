@@ -1,0 +1,1 @@
+{"version":3,"sources":["app.css"],"names":[],"mappings":"AAAA,KAEE,qBAAgB,CAChB,SAAU,CACV,wBAA4B,CAC5B,YACF","file":"main.c55bd31b.chunk.css","sourcesContent":[".App{\r\n  margin: auto;\r\n  margin-top: 25px;\r\n  width: 50%;\r\n  border: 3px solid blueviolet;\r\n  padding: 10px;\r\n}"]}
